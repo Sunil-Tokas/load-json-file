@@ -1,0 +1,5 @@
+{"name": "Salman", "movie":"Kyuki", "age": 55, "work":10,"phone":9929292929,"email":"salman@gmail.com","gender":"Male","mType":"Solo","mYear":2017},
+{"name": "Shahrukh", "movie":"DDLJ", "age": 55, "work":10,"phone":9923344929,"email":"shahrukh@gmail.com","gender":"Male","mType":"Solo","mYear":2012},
+{"name": "Hritick", "movie":"KMG", "age": 50, "work":6,"phone":99295587929,"email":"hritick@gmail.com","gender":"Male","mType":"Solo","mYear":2011},
+{"name": "Rani Mukharji", "movie":"Hichki", "age": 48, "work":7,"phone":9929292367,"email":"mukharji@gmail.com","gender":"Female","mType":"Solo","mYear":2018},
+{"name": "Rojar", "movie":"Avengers", "age": 50, "work":6,"phone":2349292929,"email":"rojar@gmail.com","gender":"Male","mType":"Multi","mYear":2018},
